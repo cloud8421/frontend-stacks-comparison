@@ -1,3 +1,6 @@
 [submodule "clock-elm"]
 	path = clock-elm
 	url = https://github.com/cloud8421/elm-clock
+[submodule "clojurescript-clock"]
+	path = clock-clojurescript
+	url = https://github.com/cloud8421/clojurescript-clock
